@@ -1,59 +1,39 @@
 class: center, middle
 
-# 讲义题目
+# Self Introduction
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 彭金山(1600012182@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/jinshan417
 
 ---
 
-## 第一部分
-
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
-
+## 自我介绍
 ---
+### <font color="orangered">1. basic information</font>
 
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
+#### &nbsp; &nbsp; 年龄：19    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;破壳日：1998.11.24
+#### &nbsp; &nbsp; 籍贯：湖北  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;民族：汉族
+#### &nbsp; &nbsp; 院系：生命科学学院
 ---
+### 2. self impression
 
-## `\(\LaTeX{}\)` in remark
+#### &nbsp; &nbsp;比较喜欢<font color="orange">乒乓球</font>,周末会混迹于邱德拔，与生科院乒乓球队的小伙伴约球虐菜。
+
+#### &nbsp; &nbsp;曾经在院学生会体育部作小部员，和部长以及小伙伴们在各种运动会和比赛中发光发热。
+
+#### &nbsp; &nbsp;喜欢唱歌，但出于对自己歌唱水平的认知，从来不敢站上十佳歌手的舞台。
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
 
-Display formula:
 
-$$e^{i\pi} + 1 = 0$$
+
+
+
+
 
 ---
 
